@@ -10,6 +10,9 @@
 	<div id="header">
 		<h1>YAMANOTE-<span>UNTI</span>n</h1>
 	</div>
+<?php 
+echo "aaa\n";
+?>
 	<div id="contents">
 		<select>
 			<option id="stationsPulldown"></option>
