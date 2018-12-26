@@ -6,14 +6,11 @@
 	<link rel="stylesheet" href="css/index.css">
 </head>
 <body>
-	<script src="json/Stationlist"></script>	
+	<script type="text/javascript" src="java/index.js"></script>
 	<div id="header">
 		<h1>YAMANOTE-<span>UNTI</span>n</h1>
 	</div>
-	<div id="contents">
-		<select>
-			<option id="stationsPulldown"></option>
-	        </select>
+	<div id="conents">
 	</div>
 </body>
 </html>
